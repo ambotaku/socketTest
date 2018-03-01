@@ -1,0 +1,93 @@
+{
+  "lists": [
+    {
+      "id": 4,
+      "name": "Vorlage",
+      "items": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Liste 1",
+      "items": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Liste 2",
+      "items": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Liste 3",
+      "items": [
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "name": "Äpfel",
+      "count": "1",
+      "priority": 1
+    },
+    {
+      "id": 2,
+      "name": "Birnen",
+      "count": 1,
+      "priority": 1
+    },
+    {
+      "id": 3,
+      "name": "Butter",
+      "count": 1,
+      "priority": 1
+    },
+    {
+      "id": 4,
+      "name": "Mehl",
+      "count": 1,
+      "priority": 1
+    },
+    {
+      "id": 5,
+      "name": "Zucker",
+      "count": 1,
+      "priority": 1
+    },
+    {
+      "count": 1,
+      "name": "Käse",
+      "id": 6
+    },
+    {
+      "count": 1,
+      "name": "Quark",
+      "id": 8
+    },
+    {
+      "count": 1,
+      "name": "Pilze",
+      "id": 9
+    },
+    {
+      "count": "4",
+      "name": "Reise",
+      "id": 10
+    }
+  ]
+}
